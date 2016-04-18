@@ -2,7 +2,6 @@ FROM ubuntu:16.04
 MAINTAINER Panagiotis Atmatzidis <atma@convalesco.org>
 
 ENV BATS_VERSION 0.4.0
-ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt-get update -q \
 	&& apt-get install -y -q bash make curl ca-certificates python kafkacat \
