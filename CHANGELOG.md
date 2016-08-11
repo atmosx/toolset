@@ -1,5 +1,11 @@
 # Toolset Docker Image
 
+## 2016-08-11
+* added nmap
+* added netcat
+* added ip-utils (ping and friends)
+* added tag v0.0.3
+
 ## 2016-04-22
 * added jq
 * added tag v0.0.2

@@ -11,3 +11,6 @@ Currently the image contains:
 * [python](https://www.python.org/) - programming language
 * [curl](https://curl.haxx.se/) - cli data transfer tool for a variety of protocols
 * [jq](https://stedolan.github.io/jq/) - lightweight and flexible command-line JSON processor.
+* [nmap](https://nmap.org/) - most full featured CLI port scanner in existence.
+* [netcat](http://nc110.sourceforge.net/) - the netcat (traditional) networking utility.
+* [iputils](https://launchpad.net/ubuntu/+source/iputils) - ubuntu IP utilities (ping, tracepath)
