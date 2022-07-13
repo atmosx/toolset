@@ -1,5 +1,11 @@
 # Toolset Docker Image
 
+## 2022-07-12
+* Update base image to Ubuntu Focal
+* Remove BATS
+* Remove python
+* Add [rpk](https://docs.redpanda.com/docs/reference/rpk-commands/) to work with kafka
+
 ## 2016-08-11
 * added nmap
 * added netcat
