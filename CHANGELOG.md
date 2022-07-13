@@ -1,5 +1,8 @@
 # Toolset Docker Image
 
+## 2022-07-13
+* Add dns-utils and mongocli
+
 ## 2022-07-12
 * Update base image to Ubuntu Focal
 * Remove BATS
